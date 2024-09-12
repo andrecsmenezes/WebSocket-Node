@@ -4,7 +4,7 @@
     "author": "Brian McKelvey <brian@worlize.com> (https://www.worlize.com/)",
     "version": "1.0.0",
     "dependencies": {
-        "express": "~2",
+        "express": "~4.20.0",
         "ejs": "*"
     }
 }
